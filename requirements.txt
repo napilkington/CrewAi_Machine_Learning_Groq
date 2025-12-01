@@ -1,4 +1,11 @@
+# Streamlit
 streamlit>=1.40.0
+
+# Crewai (latest stable)
 crewai>=0.80.0
+
+# Pandas for data handling
 pandas>=2.2.0
+
+# LangChain Groq integration
 langchain-groq>=0.2.0
